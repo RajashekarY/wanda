@@ -2,7 +2,7 @@
 > a magical wand in your pocket
 this contains my tips and tricks for better system setup and greater productivity
 # setup.sh
-> I have created this file to increase your productivity and save much time in setting up system whwnever you install debian/ubuntu based system
+> I have created this file to increase your productivity and save much time in setting up system whenever you install debian/ubuntu based system
 > Rust is a growing lot of affinity in creating system tools with performance using full potential of your system to acheive the job over legacy GNU tools by replicating them with `rust` implementation with similar nomenclature as GNU
 * ls -> lsd
 * du -> dust (du+rust = dust)
